@@ -1,0 +1,17 @@
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Node modules (if you add any JavaScript dependencies later)
+node_modules/
+
+# Environment files
+.env
